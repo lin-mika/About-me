@@ -15,7 +15,6 @@
    My favourite subjects in school are Chemistry, Calculus and Biology. 
 
    I am currently working at a pharmacy as a Pharmacy Assistant.
-</p>
 
 
 
@@ -25,10 +24,6 @@
 
 
 
-
-
-
-<img align="left" width="268" height="403" src="https://user-images.githubusercontent.com/61289486/82194968-7e5c5a80-98ac-11ea-9d44-0d4a317fa8db.JPG">
 
 
 
