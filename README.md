@@ -9,7 +9,7 @@
    My favourite subjects in school are Chemistry, Calculus and Biology. 
 
    I am currently working at a pharmacy as a Pharmacy Assistant.
-
+</p>
 
 
 
