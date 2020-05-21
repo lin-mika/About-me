@@ -1,7 +1,7 @@
 
 
 <div style="float: left">
-    ![top photo](https://user-images.githubusercontent.com/61289486/82194564-de9ecc80-98ab-11ea-8238-e78a8f5fee7c.JPG)
+    ![top photo] (https://user-images.githubusercontent.com/61289486/82194564-de9ecc80-98ab-11ea-8238-e78a8f5fee7c.JPG)
 </div>
 
 
