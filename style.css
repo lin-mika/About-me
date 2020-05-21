@@ -8,9 +8,10 @@ body
 .box
 {
     position: absolute;
+    top: 70%;
+    left 70%;
     transform: translate(-50%,-50%);
     width: 800px;
-    height: 800px;
     padding: 20px;
     bos-sizing: border-box;
     background: #fff;
@@ -52,10 +53,3 @@ body
     text-align: justify;
     font size: 22;
 }
-
-
-
-
-
-
-
