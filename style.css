@@ -9,7 +9,7 @@ body
 {
     position: absolute;
     transform: translate(-50%,-50%);
-    width: 1200px;
+    width: 800px;
     height: 800px;
     padding: 20px;
     bos-sizing: border-box;
