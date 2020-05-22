@@ -30,8 +30,11 @@ body
     hight: 403px;
     flex: 0 0 150px
 }
-
 .box .imgBx img
+{
+    max-width: 200%;
+}
+.box .imgBx2 img
 {
     max-width: 200%;
 }
