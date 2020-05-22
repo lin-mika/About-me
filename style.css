@@ -41,14 +41,14 @@ body
 .box .content h2
 {
     margin: 0;
-    padding-left: 20;
+    padding: 30px 20px;
     color: #939393;
     font size: 50px;
 }
 .box .content p
 {
     margin: 0;
-    padding: 10px 20 0;
+    padding: 30px 20px 0;
     text-align: justify;
     font size: 30px;
 }
