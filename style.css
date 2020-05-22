@@ -38,14 +38,14 @@ body
 {
     padding-left: 120px;
 }
-.box .content h2
+.box .content h1
 {
     margin: 0;
-    padding-left: 0;
+    padding-left: 10;
     color: #939393;
     font size: x-large;
 }
-.box .content p
+.box .content h4
 {
     margin: 0;
     padding: 10px 0 0;
