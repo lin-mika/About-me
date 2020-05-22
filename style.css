@@ -34,7 +34,7 @@ body
 {
     width: 366px;
     hight: 274px;
-    flex: 0 0 150px
+    flex: 0 5000 150px
 }
 .box .imgBx img
 {
