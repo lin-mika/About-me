@@ -43,6 +43,7 @@ body
     margin: 0;
     padding: 10% 10%;
     color: #939393;
+    font-size: 35px;
 }
 .box .content p
 {
@@ -50,5 +51,5 @@ body
     margin: 0;
     padding: 10px 55px 3px;
     text-align: justify;
-    font-size: 8px;
+    font-size: 20px;
 }
