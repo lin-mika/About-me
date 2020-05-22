@@ -47,6 +47,7 @@ body
 }
 .box .content p
 {
+    font-family: "Lucida Console", Courier, monospace;
     margin: 0;
     padding: 10px 55px 3px;
     text-align: justify;
