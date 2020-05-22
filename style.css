@@ -36,14 +36,14 @@ body
 }
 .box .content 
 {
-    padding-left: 200px;
+    padding-left: 150px;
 }
 .box .content h1
 {
     margin: 0;
     padding: 10% 10%;
     color: #939393;
-    font-size: 35px;
+    font-size: 40px;
 }
 .box .content p
 {
@@ -51,5 +51,5 @@ body
     margin: 0;
     padding: 10px 55px 3px;
     text-align: justify;
-    font-size: 20px;
+    font-size: 18px;
 }
