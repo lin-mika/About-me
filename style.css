@@ -28,21 +28,11 @@ body
 {
     width: 168px;
     hight: 403px;
-    flex: 2;
-}
-.box .imgBx2
-{
-    width: 366px;
-    hight: 274px;
-    flex: 2;
+    flex: 0 0 150px;
 }
 .box .imgBx img
 {
     max-width: 200%;
-}
-.box .imgBx2 img
-{
-    max-width: 100%;
 }
 .box .content 
 {
