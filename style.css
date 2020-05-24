@@ -27,7 +27,7 @@ body
 .box .imgBx
 {
     width: 272px;
-    hight: 472px;
+    hight: 272px;
     flex: 0 0 150px;
 }
 .box .imgBx img
@@ -42,6 +42,7 @@ body
 {
     margin: 0;
     padding: 5% 10%;
+    color: #545454;
     ffont-size:x-large;
 }
 .box .content p
